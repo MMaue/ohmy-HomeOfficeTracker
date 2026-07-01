@@ -26,7 +26,7 @@ installation.
 
 ## 🚀 Quick Start (Windows — no installation)
 
-1. Download **`HomeOfficeTracker.exe`** from the [Releases](#) page.
+1. Download **`HomeOfficeTracker.exe`** from the [Releases](https://github.com/MMaue/ohmy-HomeOfficeTracker/releases/latest) page.
 2. Place it in any folder you like (e.g. `Documents\HomeOfficeTracker\`).
 3. Double-click `HomeOfficeTracker.exe`.
 4. Your browser opens automatically at `http://localhost:8000`.
